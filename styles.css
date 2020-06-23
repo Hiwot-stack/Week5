@@ -1,0 +1,44 @@
+body {
+	background: #e1fcff;
+}
+.Vegitables {
+	background-color: green;
+}
+.Firut{
+	background-color: orange;
+}
+.Meat{
+	background-color: red;
+}
+.Dairy{
+	background-color: black;
+	color:white;
+}
+/*@media (min-width: 576px) and (max-width: 767px) { 
+	  .container {
+	    max-width: 540px; /*//*/ Actual width of the container 
+	  }
+	}
+
+@media (min-width: 768px) {
+	  .container {
+	    max-width: 720px;
+	  }
+	}
+
+@media (min-width: 992px) {
+	  .container {
+	    max-width: 960px;
+	  }
+	}
+
+@media (min-width: 1200px) {
+	  .container {
+	    max-width: 1140px;
+	  }
+	}*/
+@media (min-width: 540){
+	body.Vegitables{
+		background:red;
+	}
+}
